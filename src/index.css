@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #131520;
+}
+
+@font-face {
+    font-family: "Regular";
+    src: local("SpaceGrotesk");
+    src: url(./assets/fonts/SpaceGrotesk-VariableFont_wght.ttf)format(truetype);
+}
+
+@font-face {
+    font-family: "Medium";
+    src: local("SpaceGrotesk");
+    src: url(./assets/fonts/SpaceGrotesk-VariableFont_wght.ttf)format(truetype);
+}
+
+@font-face {
+    font-family: "Bold";
+    src: local("SpaceGrotesk");
+    src: url(./assets/fonts/SpaceGrotesk-VariableFont_wght.ttf)format(truetype);
+}
