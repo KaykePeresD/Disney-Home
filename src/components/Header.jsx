@@ -1,10 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import logo from '../assets/Images/logo (1).png'
-import { HiHome,
-    HiMagnifyingGlass,
-    HiStar,
-    HiPlayCircle,
-    HiTv } from "react-icons/hi2";
+import { HiHome, HiMagnifyingGlass, HiStar, HiPlayCircle, HiTv } from "react-icons/hi2";
     import { HiPlus,HiDotsVertical } from "react-icons/hi";
 import Headeritem from './Headeritem';
 
